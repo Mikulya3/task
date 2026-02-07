@@ -33,3 +33,10 @@
     5. Какой точно часовой пояс и временные интервалы для показа рекламы?
     6. Лимиты применяются по сессии или по учётной записи пользователя?
     7. Должна ли корзина сохраняться после выхода из аккаунта?
+TASK 2
+1. git clone ()
+2. pip install -r req.txt
+3. uvicorn app:app --reload
+4. http://127.0.0.1:8000/docs
+TASK 3
+<img width="261" height="901" alt="task3 drawio" src="https://github.com/user-attachments/assets/716dbe40-1bef-4b81-9674-0d7bd225f1e5" />
